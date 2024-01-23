@@ -165,15 +165,15 @@
 }
 
 table.tablesorter thead tr .header{
-  background: url("/img/bg.gif") no-repeat center right;
+  background: url("/src/assets/sass/img/bg.gif") no-repeat center right;
   cursor: pointer;
 }
 
 table.tablesorter thead tr .headerSortUp {
-	background-image: url("/img/asc.gif");
+	background-image: url("/src/assets/sass/img/asc.gif");
 }
 table.tablesorter thead tr .headerSortDown {
-	background-image: url("/img/desc.gif");
+	background-image: url("/src/assets/sass/img/desc.gif");
 }
 
 // datatables
